@@ -8,7 +8,7 @@ Makes use of the following public data sources:
 
 - Satellite reflectance data at 10m² resolution from ESA [Sentinel 2A](https://scihub.copernicus.eu).
 - Land cover data at 10m² resolution from [UK CEH](https://catalogue.ceh.ac.uk/documents/017313c6-954b-4343-8784-3d61aa6e44da).
-- Rainfall at 1km² resolution from Met Office [HadUK-Grid] (https://catalogue.ceda.ac.uk/uuid/4dc8450d889a491ebb20e724debe2dfb).
+- Rainfall at 1km² resolution from Met Office [HadUK-Grid](https://catalogue.ceda.ac.uk/uuid/4dc8450d889a491ebb20e724debe2dfb).
 - LIDAR at 1m² from the Environment Agency's [National LIDAR Programme](https://www.data.gov.uk/dataset/f0db0249-f17b-4036-9e65-309148c97ce4/national-lidar-programme).
 
 
